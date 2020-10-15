@@ -1,3 +1,3 @@
-This repository is going to host **FastFormers** from the paper *FastFormers: Highly Efficient Transformer Modelsfor Natural Language Understanding*.
+This repository is going to host **FastFormers** from the paper *FastFormers: Highly Efficient Transformer Models for Natural Language Understanding*.
 
 Coming soon...
