@@ -1,4 +1,3 @@
-This repository hosts Microsoft's submissions to the SustaiNLP 2020 shared task.
+This repository is going to host **FastFormers** from the paper *FastFormers: Highly Efficient Transformer Modelsfor Natural Language Understanding*.
 
-For more information, please visit the shared task homepage.
-https://sites.google.com/view/sustainlp2020/shared-task
+Coming soon...
